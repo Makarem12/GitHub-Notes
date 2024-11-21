@@ -19,6 +19,8 @@
 2. Open your terminal, navigate to your project directory, and run:
   a. git init
   b. git remote add origin <repository-url>
-  c. do the ACP (add.commit,push) steps
+  c. do the AC (add,commit) steps
+  d. git branch -M main
+  e. git push -u origin main
 
 
